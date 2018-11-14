@@ -33,11 +33,11 @@ public class BasicMapExample {
       System.out.println();
       
       boolean containsTwenty = exampleMap.containsKey(new Integer(20));
-      System.out.println(String.format("Contais key '%d'? %b", new Integer(20), containsTwenty));
+      System.out.println(String.format("Contains key '%d'? %b", new Integer(20), containsTwenty));
       System.out.println();
       
       boolean containsOne = exampleMap.containsValue("One");
-      System.out.println(String.format("Contais value '%s'? %b", "One", containsOne));
+      System.out.println(String.format("Contains value '%s'? %b", "One", containsOne));
       System.out.println();
       
       String eleven = exampleMap.get(new Integer(11));
