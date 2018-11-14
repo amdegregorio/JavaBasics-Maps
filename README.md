@@ -5,10 +5,10 @@ For more information see [Java Basics: Maps](http://amydegregorio.com/2018/11/14
 
 Each class has a main method and can run on it's own.
 
-##BasicMapExample
+## BasicMapExample
 Contains example code using a HashMap
 
-##TreeMapExample
+## TreeMapExample
 Contains example code using a TreeMap
 
 #### License
